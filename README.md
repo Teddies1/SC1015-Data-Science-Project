@@ -34,7 +34,7 @@ Now that we had cleaned our dataset, we were ready to do some basic exploration 
 
 ## Machine Learning:
 
-For our machine learning part, we used a variety of models, from Linear regression, Support Vector machines, neural network, and XGBoost. Using a 80-20 train test aplit, we trained on each of these models, and found that the XGBoost achieved the lowest training error while the neural network overfitted the least. Similarly, we found that in general our prediction models had not done very well in predicting the departure delays.
+For our machine learning part, we used a variety of models, from Linear regression, support vector machines, neural network, and XGBoost. Using a 80-20 train test split, we trained on each of these models, and found that the XGBoost achieved the lowest training error while the neural network overfitted the least. Similarly, we found that in general our prediction models had not done very well in predicting the departure delays.
 
 
  
