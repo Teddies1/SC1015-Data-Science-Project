@@ -2,7 +2,7 @@
 Mini project for SC1015 Intro to Data Science and Artificial Intelligence. Done by Aryan, Hon Joo and Adrian.
 
 
-Hello! We are Team 10, and our project aimed at identifying the causes of flight delays, and whether we could prevent them or noy. Through our project, we also hoep to privde recommendations to passengers and airports as to how they can reduce delays.
+Hello! We are Team 10, and our project aimed at identifying the causes of flight delays, and whether we could prevent them or not. Through our project, we also hope to provide recommendations to passengers and airports as to how they can reduce delays.
 
 Our Dataset: We have used the 2018 US Flights dataset, which is a comprehensive dataset containing more than 6 million rows and 13 columns representing different features.
 
@@ -20,7 +20,7 @@ Now that we had cleaned our dataset, we were ready to do some basic exploration 
 
 Machine Learning:
 
-For our machine learning part, we used a variety of models, from Linear regression, Support Vector machines, neural network, and XGBoost. Using a 80-20 train test aplit, we trained on each of these models, and found that the XGBoost achieved the lowest training error while the neural netrowk overiftted the least. Similarly, we found that in general our prediction models had not done very well in predicting the departure delays.
+For our machine learning part, we used a variety of models, from Linear regression, Support Vector machines, neural network, and XGBoost. Using a 80-20 train test aplit, we trained on each of these models, and found that the XGBoost achieved the lowest training error while the neural netrowk overfitted the least. Similarly, we found that in general our prediction models had not done very well in predicting the departure delays.
 
 
 References:
