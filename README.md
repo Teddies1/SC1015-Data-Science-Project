@@ -9,7 +9,9 @@ Hello! We are Team 10, and our project aimed at identifying the causes of flight
 # Contributors:
 
 Data Prep: @Teddies1 (Hon Joo)
+
 Exploratory Data Analysis: @Adrenaline1560 (Adrian)
+
 Machine Learning: @aryans1204 (Aryan)
 
 ---
