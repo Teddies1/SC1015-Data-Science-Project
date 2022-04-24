@@ -4,7 +4,7 @@ Mini project for SC1015 Intro to Data Science and Artificial Intelligence. Done 
 
 Hello! We are Team 10, and our project aimed at identifying the causes of flight delays, and whether we could prevent them or not. Through our project, we also hope to provide recommendations to passengers and airports as to how they can reduce delays.
 
-Our Dataset: We have used the 2018 US Flights dataset, which is a comprehensive dataset containing more than 6 million rows and 13 columns representing different features.
+Our Dataset: We have used the 2018 US Flights dataset, which is a comprehensive dataset containing more than 7 million rows and 13 columns representing different features.
 
 
 Data Prep: 
