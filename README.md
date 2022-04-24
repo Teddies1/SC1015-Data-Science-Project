@@ -41,4 +41,5 @@ For our machine learning part, we used a variety of models, from linear regressi
 ## References:
 
 https://machinelearningknowledge.ai/how-to-use-sklearn-simple-imputer-simpleimputer-for-filling-missing-values-in-dataset/
+https://seaborn.pydata.org/generated/seaborn.barplot.html
 
