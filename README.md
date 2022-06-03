@@ -1,5 +1,5 @@
 # SC1015-Data-Science-Project
-Mini project for SC1015 Intro to Data Science and Artificial Intelligence. Done by Aryan, Hon Joo and Adrian.
+Mini project for SC1015 Intro to Data Science and Artificial Intelligence. 
 
 
 Hello! We are Team 10, and our project aimed at identifying the causes of flight delays, and whether we could prevent them or not. Through our project, we also hope to provide recommendations to passengers and airports as to how they can reduce delays.
@@ -8,9 +8,9 @@ Hello! We are Team 10, and our project aimed at identifying the causes of flight
 
 ## Contributors:
 
-1. Data Prep: @Teddies1 (Hon Joo)
-2. Exploratory Data Analysis: @Adrenaline1560 (Adrian)
-3. Machine Learning: @aryans1204 (Aryan)
+1. Data Prep: @Teddies1 
+2. Exploratory Data Analysis: @Adrenaline1560 
+3. Machine Learning: @aryans1204
 
 
 
